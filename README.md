@@ -52,7 +52,7 @@ BSKY_PASSWORD=tonMotDePasse
 
 ```bash
 cd backend
-npm start
+node index.js
 ```
 
 L’API sera disponible sur `http://localhost:3000`.
